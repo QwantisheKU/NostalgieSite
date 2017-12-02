@@ -1,0 +1,26 @@
+body {
+	background: #EAF202;
+}
+#textlines2 {
+	color: black;
+}
+#textlines1 {
+	color:#124EB5;
+}
+.text {
+text-align:center;
+}
+.fig {
+text-align:center;
+}
+.message {
+	margin: 10px;
+	border-radius: 25px;
+}
+.message:hover {
+	border: 2px solid black;
+	box-shadow: 15px 15px 30px;
+}
+
+
+
